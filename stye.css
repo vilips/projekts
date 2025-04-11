@@ -1,0 +1,27 @@
+body{
+  background-color: #ade5ac;
+}
+p{
+  text-align: center;
+  color: red;
+}
+h1{
+  color: blue;
+  font-size: 24px;
+}
+table, td{
+  color: purple;
+  border: 2px solid;
+  background-color: #87938b;
+  width: 50%;
+}
+
+th{
+  color: blue;
+  background-color: #52725d
+}
+
+td{
+  color: blue;
+  background-color: #74927e
+}
